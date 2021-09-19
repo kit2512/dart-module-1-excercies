@@ -1,3 +1,5 @@
+// program to find the sum of a list of integers
+
 import "dart:io";
 
 void main() {

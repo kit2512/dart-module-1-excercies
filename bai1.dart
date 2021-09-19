@@ -1,8 +1,5 @@
+// program to sort a list of intergers
 import "dart:io";
-/**
- * get a list of intergers from keyboard then sort it
- * according to the option passed from keyboard
- */
 
 void main() {
   List<int> numbers = [];

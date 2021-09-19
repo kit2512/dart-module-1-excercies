@@ -1,5 +1,4 @@
-// program to get a list of interger from keyboard, then print prime numbers to console
-
+// program to find prime numbers in a list of integers
 import 'dart:io';
 
 bool isPrime(int n) {
